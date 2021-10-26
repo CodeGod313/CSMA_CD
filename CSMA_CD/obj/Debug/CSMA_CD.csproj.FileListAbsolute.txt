@@ -1,0 +1,6 @@
+C:\Proga\ТОКС\lab4\CSMA_CD\CSMA_CD\bin\Debug\CSMA_CD.exe
+C:\Proga\ТОКС\lab4\CSMA_CD\CSMA_CD\bin\Debug\CSMA_CD.pdb
+C:\Proga\ТОКС\lab4\CSMA_CD\CSMA_CD\obj\Debug\CSMA_CD.csproj.AssemblyReference.cache
+C:\Proga\ТОКС\lab4\CSMA_CD\CSMA_CD\obj\Debug\CSMA_CD.csproj.CoreCompileInputs.cache
+C:\Proga\ТОКС\lab4\CSMA_CD\CSMA_CD\obj\Debug\CSMA_CD.exe
+C:\Proga\ТОКС\lab4\CSMA_CD\CSMA_CD\obj\Debug\CSMA_CD.pdb
